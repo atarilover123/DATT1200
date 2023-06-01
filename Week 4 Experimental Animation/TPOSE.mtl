@@ -1,0 +1,15 @@
+# Blender 3.1.0 MTL File: 'Experimental Animation W4.blend'
+# www.blender.org
+
+newmtl Ch20_body.001
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd  texture.png
+map_Ks  ../../../../../Ch20_1001_Specular.png
+map_Bump  -bm 1.000000 ../../../../../Ch20_1001_Normal.png
